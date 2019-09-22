@@ -14,3 +14,23 @@ index 70c379b..1f1821d 100644
 +Hello world
 +I am online
 \ No newline at end of file
+
+
+$ git diff master
+diff --git a/A.txt.txt b/A.txt.txt
+index 1f1821d..802992c 100644
+--- a/A.txt.txt
++++ b/A.txt.txt
+@@ -1,2 +1 @@
+ Hello world
+-I am online
+\ No newline at end of file
+diff --git a/B.txt.txt b/B.txt.txt
+index f9ba24b..5001210 100644
+--- a/B.txt.txt
++++ b/B.txt.txt
+@@ -1 +1 @@
+-All work and no play makes this a dull day
+\ No newline at end of file
++All work and no play makes this a dull month
+\ No newline at end of file
