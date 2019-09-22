@@ -1,0 +1,16 @@
+commit 3dc4e4d867544d0c845fc716f86c540743666cea
+Author: sowjanya <alla.sowjanya659@gmail.com>
+Date:   Sun Sep 22 20:23:55 2019 +0200
+
+    commit 1
+$ git diff master
+diff --git a/A.txt.txt b/A.txt.txt
+index 70c379b..1f1821d 100644
+--- a/A.txt.txt
++++ b/A.txt.txt
+@@ -1 +1,2 @@
+-Hello world
+\ No newline at end of file
++Hello world
++I am online
+\ No newline at end of file
